@@ -8,9 +8,9 @@ This project uses machine learning and deep learning models to predict CVSS vuln
 3. Run all cells to train and evaluate the models
 
 ## Project Structure
-├── README.md # This file 
-├── code/ # Entier code 
-├── saved models/ # Saved ML/DL models
+README.md - This file 
+code - Entier code 
+saved models - Saved ML/DL models
 
 ## Models Used
 - Gradient Boosting​
