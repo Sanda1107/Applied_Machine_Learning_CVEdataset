@@ -2,6 +2,16 @@
 
 This project uses machine learning and deep learning models to predict CVSS vulnerability scores using the NVD dataset.
 
+## Using the code
+1. Download or clone the repository
+2. Open the notebook in Google Colab
+3. Run all cells to train and evaluate the models
+
+## Project Structure
+├── README.md # This file 
+├── code/ # Entier code 
+├── saved models/ # Saved ML/DL models
+
 ## Models Used
 - Gradient Boosting​
 - XGBoost​
