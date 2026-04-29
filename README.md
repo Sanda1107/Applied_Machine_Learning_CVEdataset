@@ -18,4 +18,6 @@ Best model: XGBoost with highest R² score.
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/2c8988db-10cd-442b-9d6d-eb9c30b6614f" />
 
+
+
 Dataset link: https://nvd.nist.gov/developers/vulnerabilities 
