@@ -26,7 +26,7 @@ This project uses machine learning and deep learning models to predict CVSS vuln
 Best model: XGBoost with highest R² score.
 
 
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/2c8988db-10cd-442b-9d6d-eb9c30b6614f" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/da6bf921-408a-495b-97fe-206594168f4c" />
 
 
 
